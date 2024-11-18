@@ -13,4 +13,14 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+---
+# parv
+
+> I want to learn about how to make a game (*I am learning it on git hub*) qwerty is the name of the standard computer
+
+**I am a person who likes books**
+
+ ---
+ 😇
+ ***
+ 
